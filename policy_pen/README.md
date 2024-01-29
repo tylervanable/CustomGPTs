@@ -1,6 +1,6 @@
 # Overview
 
-Policy Pen is designed to collect user input to display a letter on that can be sent to a politician, political leader, or other elected official.
+Policy Pen is designed to collect user input that will format and generate into a letter that can be sent to a politician, political leader, or other elected official.
 
 Requires input such as the recipient, topic of letter, and contentions (points in a persuasive argument).
 
