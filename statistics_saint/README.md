@@ -1,5 +1,5 @@
 # Overview
-Statistics Saint is designed to help you better understand statistics, especially if you are in AP Statistics or an Introduction to Statistics course.
+[Statistics Saint](https://chat.openai.com/g/g-vbEuwH2US-statistics-saint) is designed to help you better understand statistics, especially if you are in AP Statistics or an Introduction to Statistics course.
 
 Can offer examples, describe problems step-by-step, and clarify confusions in understanding statistics. 
 
