@@ -1,5 +1,5 @@
 # Overview
-[Kynseed Keeper](https://chat.openai.com/g/g-3yF48BOFC-kynseed-keeper) is an AI trained to give users tips, techniques, and walkthroughs of a video game called "Kynseed". 
+[Kynseed Keeper](https://chat.openai.com/g/g-3yF48BOFC-kynseed-keeper) is a GPT trained to give users tips, techniques, and walkthroughs of a video game called "Kynseed". 
 
 Kynseed is an RPG indie game developed by PixelCount Studios, which was founded by two video game developers of the popular game "Fable". The art style is reminiscent of 16-bit classics, but meticulously crafted with a modern range of colours and textures that help bring the fairy-tale setting to life.
 
